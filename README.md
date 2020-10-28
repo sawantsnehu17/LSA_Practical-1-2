@@ -1,1 +1,1 @@
-# LSA_Practical-1-2
+# LSA_Practicals 
